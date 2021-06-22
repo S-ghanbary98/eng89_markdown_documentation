@@ -29,4 +29,4 @@ print("Hello world!")
 
 
 
-#### Moving on to Linux basics
+#### Moving onto Linux basics
